@@ -1,5 +1,6 @@
 def introduce():
     print("Hello im gittie!")
+    print("Leave me alone")
 
 def add():
     print("This is an add function")
